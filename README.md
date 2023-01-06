@@ -18,7 +18,22 @@
 
 - Жизненный цикл разработки ПО. Гибкие методологии разработки ПО - [Домашнее задание](https://docs.google.com/document/d/1LKJM_0W4rEyIYfSfIhIez0XbnU7iOzGdFiAiucHmRTw/edit?usp=sharing)
 
-### [Курсовая работа по модулю Ручное тестирование веб-приложений](https://docs.google.com/spreadsheets/d/1oOFg7iDmDQ0XT4nhISZ9HKLGyM9on1XvBpiDqMB4laI/edit?usp=sharing) 
+
+
+ #### Курсовая работа по модулю: [Ручное тестирование веб-приложений](https://docs.google.com/spreadsheets/d/1oOFg7iDmDQ0XT4nhISZ9HKLGyM9on1XvBpiDqMB4laI/edit?usp=sharing) 
+
+
+
+- Работа с удаленным репозиторием [Домашнее задание](https://github.com/zolotco/3.Target)
+
+- Командная работа в Git и GitHub [Часть 1](https://github.com/zolotco/2-Target)
+
+#### Командная работа в Git и GitHub Часть 2 [Задание 1](https://github.com/netology-code/git-2-homeworks-issues/issues/844), [Задание 2](https://github.com/netology-code/git-2-homeworks-pr/pull/820), [Задание 3](https://zolotco.github.io/Demo3/)
+
+
+
+- Введение в Java [Домашнее задание](https://github.com/zolotco/TaskRecipe/issues/1)
+
 
 # Сертификаты 
 - [Ручное тестирование веб-приложений. Нетология](https://drive.google.com/file/d/11vcbklB_gmgJv2G10yxQzV0toNc4QQO4/view?usp=sharing)
