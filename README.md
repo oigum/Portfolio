@@ -32,7 +32,8 @@
 
 
 
-- Введение в Java [Домашнее задание 1](https://github.com/zolotco/Mile), [Домашнее задание 2](https://github.com/zolotco/Rubls)
+- Введение в Java [Домашнее задание](https://github.com/zolotco/TaskRecipe)
+- Примитивные типы данных, условные операторы, выход за границы типов и погрешность вычислений [Домашнее задание 1](https://github.com/zolotco/Mile), [Домашнее задание 2](https://github.com/zolotco/Rubls)
 
 
 # Сертификаты 
