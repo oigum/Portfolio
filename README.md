@@ -32,7 +32,7 @@
 
 
 
-- Введение в Java [Домашнее задание 1](https://github.com/zolotco/Mile), [Домашнее задание 2]()
+- Введение в Java [Домашнее задание 1](https://github.com/zolotco/Mile), [Домашнее задание 2](https://github.com/zolotco/Rubls)
 
 
 # Сертификаты 
