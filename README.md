@@ -37,6 +37,7 @@
 - Testability, авто-тесты, введение в ООП: объекты и методы [Домашнее задание](https://github.com/zolotco/Mile)
 - Система сборки Maven, управление зависимостями, авто-тесты на JUnit5 [Домашнее задание](https://github.com/zolotco/BonusMaven)
 - Пакеты и циклы [Домашнее задание](https://github.com/zolotco/SQRService)
+- Строки и массивы [Домашняя работа](https://github.com/zolotco/StatsService)
 
 
 # Сертификаты 
