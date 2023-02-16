@@ -1,3 +1,6 @@
+![Визитка]()
+
+
 # Привет! 
 
 Я Олеся Игумнова, тестировщик.
@@ -38,7 +41,7 @@
 
 - [Командная работа в Git и GitHub Ч.1](https://github.com/zolotco/2-Target)
 
-- Командная работа в Git и GitHub Ч.2 [1](https://github.com/netology-code/git-2-homeworks-issues/issues/844), [2](https://github.com/netology-code/git-2-homeworks-pr/pull/820), [3](https://zolotco.github.io/Demo3/)
+- Командная работа в Git и GitHub Ч.2 [1](https://github.com/netology-code/git-2-homeworks-issues/issues/844), [2](https://github.com/netology-code/git-2-homeworks-pr/pull/820)
 
 #### Java
 
