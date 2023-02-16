@@ -26,11 +26,11 @@
 
  #### Ручное тестирование веб-приложения 
  
- - [Чек-лист]()
- - [Тест-кейсы]()
- - [Баг-репорты]()
- - [Тестирование верстки]()
- - [Клиент-сервер]()
+ - [Чек-лист](https://docs.google.com/spreadsheets/d/1FOuBQ2v8-yufLAuMWbxvFln7VyNikTIL6gTb1cEvA2c/edit#gid=946475606)
+ - [Тест-кейсы](https://docs.google.com/spreadsheets/d/1L_ttb9TGTTE2SxOynt5wSHwC3-4vG_gwtoOZXn3TOgQ/edit#gid=0)
+ - [Баг-репорты](https://docs.google.com/spreadsheets/d/1CVKxWJ1UfA5gMfAG7DKw8MMJKRghG3ANZ7Lh6VNaLLs/edit#gid=0)
+ - [Тестирование верстки](https://drive.google.com/drive/folders/1UA3hojWK9pTQSaDy0Ziu6qfW4yQyDxGD)
+ - [Клиент-сервер](https://drive.google.com/drive/folders/19uSyuwkniKRCnSbEBNC1FuPOj4aXhZny)
  
  #### Git. GitHub
  
