@@ -11,21 +11,11 @@
 
 - [Основы клиент-серверного взаимодействия](https://docs.google.com/document/d/1C301RmUhS1XOpusj7Maw25vnLiuA5LK-MSJUXAlsU78/edit?usp=sharing)
 
-- [Тест-дизайн](https://docs.google.com/document/d/1sRPzXJH7WBMgP-vLP6pqCM-g_wJJ0itUQKrOLKJBODs/edit?usp=sharing)
-
-- [Тестовые сценарии](https://docs.google.com/spreadsheets/d/12wvd61Ta9uTnz9zd6NJEJWL1gQVc9t9H2TAls6KzWR8/edit?usp=sharing)
-
-- [Тест-кейсы](https://docs.google.com/spreadsheets/d/1aW3JaIY4MMo0ad_6MhNlJ0befmCBI9PedTIdVe-01eA/edit?usp=sharing)
-
-- [Баг-репорты](https://drive.google.com/drive/folders/11rISH2PIx_oBP9qTNmiKi9T2_2Xq0fmX?usp=sharing)
-
 - [Нагрузочное тестирование, JMeter](https://drive.google.com/drive/folders/1sSK-GrPozopE9-A-hKrk3fy06ksyb3Kl?usp=sharing)
 
 - [Тестирование API, Postman](https://drive.google.com/drive/folders/1S4wqau0nlOM0yRa4gOU7QRqFYjmWVDlj?usp=sharing) 
 
 - [Модели разработки ПО](https://docs.google.com/document/d/1LKJM_0W4rEyIYfSfIhIez0XbnU7iOzGdFiAiucHmRTw/edit?usp=sharing)
-
-
 
  #### Ручное тестирование веб-приложения 
  
