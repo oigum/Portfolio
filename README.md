@@ -7,6 +7,21 @@
 
 # Вот, что я умею
 
+#### Тестирование мобильного приложения для:
+
+- [TapTable](https://drive.google.com/drive/folders/1DbodxG7qcL74UW-7WBBZacFD-B8wY1fk?hl=ru)
+
+
+#### Ручное тестирование веб-приложения 
+ 
+ - [Чек-лист](https://docs.google.com/spreadsheets/d/1FOuBQ2v8-yufLAuMWbxvFln7VyNikTIL6gTb1cEvA2c/edit#gid=946475606)
+ - [Тест-кейсы](https://docs.google.com/spreadsheets/d/1L_ttb9TGTTE2SxOynt5wSHwC3-4vG_gwtoOZXn3TOgQ/edit#gid=0)
+ - [Баг-репорты](https://docs.google.com/spreadsheets/d/1CVKxWJ1UfA5gMfAG7DKw8MMJKRghG3ANZ7Lh6VNaLLs/edit#gid=0)
+ - [Тестирование верстки](https://drive.google.com/drive/folders/1UA3hojWK9pTQSaDy0Ziu6qfW4yQyDxGD)
+ - [Клиент-сервер](https://drive.google.com/drive/folders/19uSyuwkniKRCnSbEBNC1FuPOj4aXhZny)
+ 
+#### Разное
+
 - [Методы и виды тестирования](https://docs.google.com/document/d/1S6HDCcJHDPc28doILJqrdGXPo4dI4k24qShlKMkSE28/edit?usp=sharing)
 
 - [Основы клиент-серверного взаимодействия](https://docs.google.com/document/d/1C301RmUhS1XOpusj7Maw25vnLiuA5LK-MSJUXAlsU78/edit?usp=sharing)
@@ -17,13 +32,6 @@
 
 - [Модели разработки ПО](https://docs.google.com/document/d/1LKJM_0W4rEyIYfSfIhIez0XbnU7iOzGdFiAiucHmRTw/edit?usp=sharing)
 
- #### Ручное тестирование веб-приложения 
- 
- - [Чек-лист](https://docs.google.com/spreadsheets/d/1FOuBQ2v8-yufLAuMWbxvFln7VyNikTIL6gTb1cEvA2c/edit#gid=946475606)
- - [Тест-кейсы](https://docs.google.com/spreadsheets/d/1L_ttb9TGTTE2SxOynt5wSHwC3-4vG_gwtoOZXn3TOgQ/edit#gid=0)
- - [Баг-репорты](https://docs.google.com/spreadsheets/d/1CVKxWJ1UfA5gMfAG7DKw8MMJKRghG3ANZ7Lh6VNaLLs/edit#gid=0)
- - [Тестирование верстки](https://drive.google.com/drive/folders/1UA3hojWK9pTQSaDy0Ziu6qfW4yQyDxGD)
- - [Клиент-сервер](https://drive.google.com/drive/folders/19uSyuwkniKRCnSbEBNC1FuPOj4aXhZny)
  
  #### Git. GitHub
  
