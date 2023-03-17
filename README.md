@@ -7,10 +7,6 @@
 
 # Вот, что я умею
 
-#### Тестирование мобильного приложения для:
-
-- [TapTable](https://drive.google.com/drive/folders/1DbodxG7qcL74UW-7WBBZacFD-B8wY1fk?hl=ru)
-
 
 #### Ручное тестирование веб-приложения 
  
