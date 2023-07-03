@@ -7,6 +7,9 @@
 
 # Вот, что я умею
 
+#### Тестовые задания
+- [Tap-Table](https://drive.google.com/drive/folders/1DbodxG7qcL74UW-7WBBZacFD-B8wY1fk)
+- [Диасофт](https://docs.google.com/document/d/1-vorOru6SK3p-gexutKDSbZttozEDfcZMzyUNgMlmHE/edit?usp=sharing)
 
 #### Ручное тестирование веб-приложения 
  
