@@ -54,7 +54,7 @@
 - [Ручное тестирование веб-приложений. Нетология](https://drive.google.com/file/d/11vcbklB_gmgJv2G10yxQzV0toNc4QQO4/view?usp=sharing)
 - [Git система контроля версий. Нетология](https://drive.google.com/file/d/1JaEXklOvW0pud2x5JUeMPF6VPL-dm2XH/view?usp=sharing)
 - [Тестирование ПО. EasyUM](https://it.easyum.ru/certificates/testing-po-260521-412/)
-
+- [Базовый. Финансовая школа VESPERFIN](https://drive.google.com/file/d/1__qHvs52hCP_FccNPhx4IzUBYJKeTytF/view?usp=sharing)
 
 
 
